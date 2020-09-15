@@ -1,4 +1,4 @@
-# chan-lab.github.io
+# chiichan-lab.github.io
 ====================
 
 Technologies this website uses:  
